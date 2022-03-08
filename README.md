@@ -1,6 +1,7 @@
-This is a Ecommerce Project created using MongoDB, Express, React and Node
+# Ecommerce Project
+This project was created using MongoDB, Express, React and Node
 
-How to execute
+## How to execute
 
 First create your .env file in backend folder
 
