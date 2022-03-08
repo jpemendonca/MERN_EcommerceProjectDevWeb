@@ -8,21 +8,21 @@ First create your .env file in backend folder
 
 
 1 -
-
+```bash
 cd backend
 
 npm i
 
 npm start
-
+```
 2 -
-
+```bash
 cd frontend
 
 npm i
 
 npm start
-
+```
 
 Preview
 
